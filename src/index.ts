@@ -25,8 +25,15 @@
 // import { isUser2 } from "./function/parameter"
 // isUser2("123")
 
-import {sumPrice} from "./function/parameter"
-const sum = sumPrice(1,2,3,4,45,5)
-console.log("->",sum)
+// import {sumPrice} from "./function/parameter"
+// const sum = sumPrice(1,2,3,4,45,5)
+// console.log("->",sum)
 
-import { logmessage } from "./function/basic"
+// import { logmessage } from "./function/basic"
+
+
+import objective from "./object/object";
+objective()
+
+import typeAliasSample from "./object/alias";
+typeAliasSample()
