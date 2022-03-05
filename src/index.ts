@@ -6,11 +6,12 @@
 // any()
 // import { unknownsample } from "./basic";
 
-import TuppleSample from "./array/tuple";
-import Arraysample from "./array/array";
-Arraysample()
+
+// import TuppleSample from "./array/tuple";
+// import Arraysample from "./array/array";
+// Arraysample()
 // import { basicmessage } from "./function/basic"
-TuppleSample()
+// TuppleSample()
 
 // basicmessage("hello")
 
@@ -40,5 +41,7 @@ TuppleSample()
 
 // import typeAliasSample from "./object/alias";
 // typeAliasSample()
-
-Arraysample
+import GenericAdvancedSample from "./generic/advance";
+import BasicSample from "./generic/basic";
+GenericAdvancedSample()
+BasicSample()
