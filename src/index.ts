@@ -6,8 +6,11 @@
 // any()
 // import { unknownsample } from "./basic";
 
+import TuppleSample from "./array/tuple";
+import Arraysample from "./array/array";
+Arraysample()
 // import { basicmessage } from "./function/basic"
-
+TuppleSample()
 
 // basicmessage("hello")
 
@@ -32,8 +35,10 @@
 // import { logmessage } from "./function/basic"
 
 
-import objective from "./object/object";
-objective()
+// import objective from "./object/object";
+// objective()
 
-import typeAliasSample from "./object/alias";
-typeAliasSample()
+// import typeAliasSample from "./object/alias";
+// typeAliasSample()
+
+Arraysample
