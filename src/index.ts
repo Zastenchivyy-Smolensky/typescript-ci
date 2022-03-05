@@ -41,7 +41,7 @@
 
 // import typeAliasSample from "./object/alias";
 // typeAliasSample()
-import GenericAdvancedSample from "./generic/advance";
-import BasicSample from "./generic/basic";
-GenericAdvancedSample()
-BasicSample()
+// import GenericAdvancedSample from "./generic/advance";
+// import BasicSample from "./generic/basic";
+// GenericAdvancedSample()
+// BasicSample()
