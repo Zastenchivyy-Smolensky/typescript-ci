@@ -6,7 +6,11 @@
 // any()
 // import { unknownsample } from "./basic";
 
+import promiseSample from "./asynce/promise";
+import callbackSample from "./asynce/callback";
+import asyncAwaitSample from "./asynce/synceawait";
 
+asyncAwaitSample()
 // import TuppleSample from "./array/tuple";
 // import Arraysample from "./array/array";
 // Arraysample()
@@ -45,3 +49,6 @@
 // import BasicSample from "./generic/basic";
 // GenericAdvancedSample()
 // BasicSample()
+// promiseSample()
+
+// callbackSample()
